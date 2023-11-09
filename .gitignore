@@ -21,8 +21,6 @@ migrate_working_dir/
 # is commented out by default.
 #.vscode/
 
-# constants
-/lib/helper/constants.dart
 
 # Flutter/Dart/Pub related
 **/doc/api/
@@ -45,4 +43,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# constants
 lib/helper/constants.dart
