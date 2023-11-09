@@ -43,8 +43,8 @@ class StaticClassData {
   static List<dynamic> staticGameList = [];
 }
 
-var kKegelApiKey = 'secretKey';
-var kKegelDataBaseId = 'DbID';
+var kKegelApiKey = '<Your secretKey from Notion> ';
+var kKegelDataBaseId = '<Your DbId from Notion>';
 var kUrlToKegelApiQuery =
     'https://api.notion.com/v1/databases/$kKegelDataBaseId/query';
 var kUrlToSaveApi = '';
