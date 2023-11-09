@@ -43,8 +43,8 @@ class StaticClassData {
   static List<dynamic> staticGameList = [];
 }
 
-var kKegelApiKey = 'secret_O8yHC5rclRripG9t1i7hVrADuspcvfONPZQc850Zs1Q';
-var kKegelDataBaseId = '513b76d10bd64af1a369dc27c8556462';
+var kKegelApiKey = 'secretKey';
+var kKegelDataBaseId = 'dbID';
 var kUrlToKegelApiQuery =
     'https://api.notion.com/v1/databases/$kKegelDataBaseId/query';
 var kUrlToSaveApi = '';
