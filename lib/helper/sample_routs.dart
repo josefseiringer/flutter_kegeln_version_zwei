@@ -1,6 +1,6 @@
-import 'package:flutter_skittles_app/pages/user_input_page.dart';
 import 'package:get/get.dart';
 import 'sample_bindings.dart';
+import '../pages/user_input_page.dart';
 import '../pages/result_page.dart';
 import '../pages/game_page.dart';
 
